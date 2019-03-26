@@ -1,7 +1,7 @@
 xhr2
 ====
 
-Simple XMLHttpRequest wrapper with minimalistic API. Work in progress.
+Simple XMLHttpRequest wrapper with minimalistic API.
 
 ## License
 MIT
